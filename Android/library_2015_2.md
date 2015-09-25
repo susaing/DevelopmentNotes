@@ -72,3 +72,47 @@
 
 ![](https://github.com/traex/RippleEffect/raw/master/demo.gif)
 
+### ProgressLayout ###
+[https://github.com/iammert/ProgressLayout](https://github.com/iammert/ProgressLayout)
+
+![](https://raw.githubusercontent.com/iammert/ProgressLayout/master/art/progress_layout_art.png)
+
+### SnailBar 蜗牛进度条 ###
+
+[https://github.com/longtaoge/SnailBar](https://github.com/longtaoge/SnailBar)
+
+![](https://camo.githubusercontent.com/898918cea97a610539213a27e49fe9d8b0cd8e4a/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530392f31342f31353133333971756e76753636753272756b6e72366e2e676966)
+
+
+### ParticleLayout ###
+
+[https://github.com/longtaoge/ParticleLayout](https://github.com/longtaoge/ParticleLayout)
+
+![](https://camo.githubusercontent.com/092e00676b8f15550ea758aa2b03f974832e5834/687474703a2f2f69332e74696574756b752e636f6d2f613231363366393065623934663831642e676966)
+
+
+### PhotoCrop ###
+
+[https://github.com/albinmathew/PhotoCrop](https://github.com/albinmathew/PhotoCrop)
+
+![](https://raw.githubusercontent.com/albinmathew/PhotoCrop/master/screenshots/pic1.png)
+
+
+### HeartLayout ###
+
+[https://github.com/longtaoge/HeartLayout](https://github.com/longtaoge/HeartLayout)
+
+
+![](https://github.com/longtaoge/HeartLayout/raw/master/assets/heartlayout.gif)
+
+
+### commentView ###
+[https://github.com/longtaoge/commentView](https://github.com/longtaoge/commentView)
+
+![](https://camo.githubusercontent.com/79ca129f50f7786ee66bc772b961297759150c81/687474703a2f2f692e696d6775722e636f6d2f75536a7a4546342e706e67)
+
+### StackOverView ###
+[https://github.com/longtaoge/StackOverView](https://github.com/longtaoge/StackOverView)
+
+![](https://camo.githubusercontent.com/eb5076c5b0b759f5a9ee9288ab754e6e9c54fd27/687474703a2f2f69313036302e70686f746f6275636b65742e636f6d2f616c62756d732f743434342f626f737379616f3136382f323031352d30342d303325323032305f35315f35305f7a7073636475696d6274612e676966)
+
