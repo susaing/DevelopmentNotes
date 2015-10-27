@@ -151,3 +151,25 @@
 [https://github.com/longtaoge/pull-back-layout](https://github.com/longtaoge/pull-back-layout)
 
 ![](https://github.com/longtaoge/pull-back-layout/raw/master/screenshot.gif)
+
+### ScrollDownLayout ###
+[https://github.com/longtaoge/ScrollDownLayout](https://github.com/longtaoge/ScrollDownLayout)
+
+
+![](https://github.com/xiongwei-git/ScrollDownLayout/raw/master/Art/2.gif)
+
+
+### Segmented Bar View ###
+
+[https://github.com/longtaoge/SegmentedBarView](https://github.com/longtaoge/SegmentedBarView)
+
+![](https://camo.githubusercontent.com/9837de76dfa76929b63d3053b5cc2457516b90d5/687474703a2f2f692e696d6775722e636f6d2f4531697654374e2e706e67)
+
+
+### fontbinding  自定义字体 ###
+
+[https://github.com/longtaoge/fontbinding](https://github.com/longtaoge/fontbinding)
+
+![](https://raw.githubusercontent.com/lisawray/fontbinding/master/screenshot_land.png)
+
+
