@@ -119,3 +119,41 @@ ormlite 示例程序
 [https://github.com/longtaoge/ActivitySafeFloat](https://github.com/longtaoge/ActivitySafeFloat)
 
 ![](https://github.com/longtaoge/ActivitySafeFloat/raw/master/684E.tmp.png)
+
+
+
+### 获取手机信息 ###
+[https://github.com/longtaoge/getPhoneMes/tree/master](https://github.com/longtaoge/getPhoneMes/tree/master)
+
+
+![](https://github.com/longtaoge/getPhoneMes/raw/master/GetPhoneMessage/%E6%95%88%E6%9E%9C%E5%9B%BE.gif)
+
+### APK加壳 ###
+
+[https://github.com/longtaoge/AndroidShell](https://github.com/longtaoge/AndroidShell)
+
+
+![](https://github.com/longtaoge/AndroidShell/raw/master/apk.gif)![](https://github.com/longtaoge/AndroidShell/raw/master/unshell.gif)
+
+
+### ScrollView  嵌套GridView和 ListView  ###
+[https://github.com/longtaoge/ScrollViewGridViewListViewDome.git](https://github.com/longtaoge/ScrollViewGridViewListViewDome.git)
+
+### 自定义随面键盘 RandomCustomkeyboard ###
+
+[https://github.com/longtaoge/RandomCustomkeyboard](https://github.com/longtaoge/RandomCustomkeyboard)
+
+![](https://github.com/longtaoge/RandomCustomkeyboard/raw/master/keydemo.gif)
+
+
+### 地图联动 ###
+
+[https://github.com/longtaoge/ViewPagerGalleryBaiduMap.git](https://github.com/longtaoge/ViewPagerGalleryBaiduMap.git)
+
+![](http://i.imgur.com/AJg8uDm.gif)
+
+
+### 百度地图纹理折线图测试 ###
+[https://github.com/longtaoge/BaiduTest.git](https://github.com/longtaoge/BaiduTest.git)
+
+![](https://camo.githubusercontent.com/86e45587dcae388ef1467ee61105095079258404/687474703a2f2f692e696d6775722e636f6d2f5849766a5065792e706e67)
